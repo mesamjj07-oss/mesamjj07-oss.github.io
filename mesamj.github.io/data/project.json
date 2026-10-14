@@ -1,0 +1,91 @@
+
+{
+  "name": "Mark John B. Mesa",
+  "course": "Bachelor of Science in Information Technology",
+  "year": "Second-Year College Student",
+  "school": "Nueva Vizcaya State University",
+  "major": "Network Management and Security",
+
+  "tagline": "BSIT Student | Network Management and Security",
+
+  "introduction": "Hello! I am Mark John B. Mesa, a second-year Information Technology student who enjoys learning about computers, networking, and new technologies. I want to improve my skills and gain more knowledge in the IT field.",
+
+  "biography": "I am a second-year BSIT student at Nueva Vizcaya State University. I am interested in computer networking, network management, and cybersecurity. As a student, I continue to learn new things and improve my technical skills through school activities and personal practice.",
+
+  "careerGoal": "My goal is to become a Network Administrator or Network Security Specialist. I want to learn how to manage computer networks, fix network problems, and protect systems from security threats.",
+
+  "interests": "My interests include computer networking, network security, troubleshooting, website development, and learning new technologies.",
+
+  "educationDescription": "I am currently taking Bachelor of Science in Information Technology at Nueva Vizcaya State University. My major is Network Management and Security, where I want to develop my knowledge of computer networks and network protection.",
+
+  "strengths": [
+    {
+      "title": "Continuous Learning",
+      "description": "I am willing to learn new things and improve my knowledge of technology."
+    },
+    {
+      "title": "Problem-Solving",
+      "description": "I try to understand problems and find simple ways to solve them."
+    },
+    {
+      "title": "Teamwork",
+      "description": "I enjoy sharing ideas and working with classmates on school activities."
+    },
+    {
+      "title": "Adaptability",
+      "description": "I am willing to try new tools and learn from different experiences."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "HTML",
+      "description": "Creating the structure of a website."
+    },
+    {
+      "name": "CSS",
+      "description": "Designing and improving the appearance of a website."
+    },
+    {
+      "name": "JavaScript",
+      "description": "Adding simple interactive features to a website."
+    },
+    {
+      "name": "Networking",
+      "description": "Learning how computers connect and communicate."
+    },
+    {
+      "name": "Network Security",
+      "description": "Learning how to protect networks and information."
+    },
+    {
+      "name": "Problem Solving",
+      "description": "Finding solutions to simple technical problems."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "✦ Student Portfolio",
+      "description": "A personal website that shows my background, education, skills, and career goals.",
+      "link": "#"
+    },
+    {
+      "title": "✧ Basic Networking",
+      "description": "A school project about computer networks, connections, and basic network setup.",
+      "link": "#"
+    },
+    {
+      "title": "★ Simple Website",
+      "description": "A simple website made with HTML, CSS, and JavaScript to practice web development.",
+      "link": "#"
+    }
+  ],
+
+  "email": "your-email@example.com",
+  "location": "Nueva Vizcaya, Philippines",
+  "linkedin": "https://www.linkedin.com/",
+
+  "footer": "© 2026 Mark John B. Mesa | Student Portfolio",
+  "motto": "Learning Today, Securing Tomorrow."
+}
