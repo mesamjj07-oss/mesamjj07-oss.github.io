@@ -68,17 +68,22 @@
     {
       "title": "✦ Student Portfolio",
       "description": "A personal website that shows my background, education, skills, and career goals.",
-      "link": "https://mesamjj07-oss.github.io/"
+      "link": "#"
     },
     {
-       "title": "FamCart - Family Shopping List",
-        "description": "A mobile application that helps families organize grocery items by category, manage shopping lists, and monitor their budget.",
-        "link": "https://mesamjj07-oss.github.io/FamCart/"
+      "title": "✧ Basic Networking",
+      "description": "A school project about computer networks, connections, and basic network setup.",
+      "link": "#"
     },
     {
       "title": "★ Simple Website",
       "description": "A simple website made with HTML, CSS, and JavaScript to practice web development.",
       "link": "#"
+    },
+    {
+        "title": "FamCart - Family Shopping List",
+        "description": "A mobile application that helps families organize grocery items by category, manage shopping lists, and monitor their budget.",
+        "link": "//mesamjj07-oss.github.io/FamCart/" 
     }
   ],
 
